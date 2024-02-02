@@ -1,0 +1,7 @@
+company,departure_station,arrival_station,departure_time,arrival_time,train_code,number_of_wagon,on_schedule,cancelled
+Eurostar,Oslo Center,Bari Center,2004-06-01 18:23:24,2004-06-01 18:23:24,59534,16,1,0
+Lineas,Turin Center,Palermo Center,2004-06-01 18:23:24,2004-06-01 18:23:24,59534,12,0,1
+North Rails,Caccamo Center,Bagheria Center,2004-06-01 18:23:24,2004-06-01 18:23:24,59534,30,0,1
+Lyria,Berlin Center,Barcellona Center,2004-06-01 18:23:24,2004-06-01 18:23:24,59534,23,1,1
+Trenitalia,Turin Center,Bagheria Center,2004-06-01 18:23:24,2004-06-01 18:23:24,59534,12,0,0
+Go Rail,Bagheria Center,Turin Center,2004-06-01 18:23:24,2004-06-01 18:23:24,59534,47,1,0
